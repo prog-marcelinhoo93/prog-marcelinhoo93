@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#Hey Devs!!!🤞🏾
+
 # Marcelo Pagarine 👨🏾‍💻🚀
 
-[![Linkedin Badge](https://img.io/badge/-linkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-pagarine-0549a2bb/)(https://www.linkedin.com/in/marcelo-pagarine-0549a2bb/)
