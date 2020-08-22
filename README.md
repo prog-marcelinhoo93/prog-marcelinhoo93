@@ -9,7 +9,7 @@
 
 ## Follow me in 👇🏿
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-pagarine-0549a2bb/)(https://www.linkedin.com/in/marcelo-pagarine-0549a2bb/)
+[![Linkedin Badge](https://img.shields.io/badge/-Marcelo&Pagarine-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-pagarine-0549a2bb/)(https://www.linkedin.com/in/marcelo-pagarine-0549a2bb/)
 
 
 
