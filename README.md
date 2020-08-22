@@ -7,9 +7,8 @@
 
 ## 👨🏾‍💻 Dev full stack in development! 🚀🦾🙏🏿
 
-## Follow me in 👇🏿
+## Contact-me on: 👇🏿
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marcelo&Pagarine-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-pagarine-0549a2bb/)(https://www.linkedin.com/in/marcelo-pagarine-0549a2bb/)
-
+[![Linkedin Badge](https://www.linkedin.com/in/marcelo-pagarine-0549a2bb/)
 
 
