@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 # Marcelo Pagarine 👨🏾‍💻🚀
 
-[![linkedin Badge](https://www.linkedin.com/in/marcelo-pagarine-0549a2bb/)
+https://www.linkedin.com/in/marcelo-pagarine-0549a2bb/
