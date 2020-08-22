@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Marcelo Pagarine 👨🏾‍💻🚀
+
+[![linkedin Badge](https://www.linkedin.com/in/marcelo-pagarine-0549a2bb/)
